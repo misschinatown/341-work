@@ -2,7 +2,9 @@ Name: China A Wendell
 Date: 02/05/2017
 This is my first text document for MART 340- Web WOW
 That has now been altered
+This is my second attempt at this assignment!
 
+Wish me LUCK!
 
 
 I added a in Atom for MART 340- Week 2 Homework
