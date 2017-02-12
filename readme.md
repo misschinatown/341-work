@@ -20,4 +20,4 @@ Steps taken to create new repository:
 
 [GitHub Home Page](http://github.com)
 
-![Atom Editor Screen Shot](Screen shot.png)
+![Atom Editor Screen Shot](https://raw.githubusercontent.com/misschinatown/341-work/master/Screen%20Shot.png)
